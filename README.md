@@ -23,7 +23,7 @@ Reset timer
 Clean and modern UI
 Lap time tracking
 
-PRODIGY_WD_03 - Tic-Tac-Toe Web App
+PRODIGY_WD_02 - Tic-Tac-Toe Web App
 
 This is Task 03 of my Web Development Internship at Prodigy InfoTech.
 
@@ -35,7 +35,7 @@ Win/draw detection
 Reset game functionality
 Clean design with responsive layout
 
-PRODIGY_WD_04 - Personal Portfolio Website
+PRODIGY_WD_02 - Personal Portfolio Website
 
 This is Task 04 of my Web Development Internship at Prodigy InfoTech.
 
