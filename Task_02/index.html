@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Stopwatch | Prodigy InfoTech</title>
+  <link rel="stylesheet" href="style1.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Stopwatch</h1>
+    <div class="stopwatch">
+      <span id="minutes">00</span>:<span id="seconds">00</span>:<span id="milliseconds">00</span>
+    </div>
+
+    <div class="buttons">
+      <button id="startStopBtn" onclick="startStop()">Start</button>
+      <button onclick="lap()">Lap</button>
+      <button onclick="reset()">Reset</button>
+    </div>
+
+    <div class="lap-section">
+      <h4>Developed by Akshara Sajith</h4>
+      <ul id="laps"></ul>
+    </div>
+  </div>
+
+  <script src="script1.js"></script>
+</body>
+</html>
