@@ -1,0 +1,10 @@
+body {
+  background-color: #fffacd;
+  font-family: 'Segoe UI', sans-serif;
+  padding: 30px;
+  font-weight: bold;
+}
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
